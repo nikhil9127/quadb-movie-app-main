@@ -1,0 +1,22 @@
+
+/*  SINGLE PAGE  */
+
+.siglePagePoster {
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 8px;
+    width: 88% !important;
+    margin-left: 1rem;
+  }
+
+  .singlePgaeDetailsHold{
+    display: flex;
+    flex-direction: row;
+    max-width: 100% !important;
+    flex-wrap: wrap;
+  }
+
+  .overView{
+    max-width: 100% !important;
+    width: 30rem;
+  }
